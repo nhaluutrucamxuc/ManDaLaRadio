@@ -15,7 +15,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "7a9f2165a4ceb772392899b6c914c8de
 "assets/assets/images/shard6.jpg": "0d5c4c104e850219ce99b777d992982e",
 "assets/assets/images/shard7.jpg": "05d5f591bcff824a3174e2b6ba5648cb",
 "assets/assets/images/shard8.jpg": "8be9be95156859d61bea09378b299d42",
-"assets/assets/models_3d/hand.glb": "b0f8e6dd8ca14d6baeff3a6b8b75ee72",
+"assets/models_3d/hand.glb": "b0f8e6dd8ca14d6baeff3a6b8b75ee72",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7d86d5bfed2a1cdfa823ad996383ccef",
 "assets/NOTICES": "f52a97a2cdd45920def9132362a39c5f",
